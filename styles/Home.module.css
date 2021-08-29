@@ -1,0 +1,21 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+
+ /* max-width: 300px;
+  max-height: 300px; */
+
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+
+  display:flex;
+  align-items: center;
+  justify-content:center;
+
+  flex-direction:column;
+
+  border: 1px solid red;
+
+}
+
